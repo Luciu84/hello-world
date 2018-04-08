@@ -1,2 +1,3 @@
+zmiana zdalna:
 kolejny pliczek stworzony lokalnie, druga zmiana
 modyfikuje sobie linijke 2
