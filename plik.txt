@@ -2,3 +2,4 @@ jakis tekst
 check it out! modification
 no to jeszcze raazz z github.com zmieniam sobie teraz linijke nr 3
 linjka 4 lokalnie
+dodaje linijke 5 lokalnie
